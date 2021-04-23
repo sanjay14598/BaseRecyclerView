@@ -21,6 +21,27 @@ class MainActivity : AppCompatActivity() {
 
         val products = listOf(
             Product(
+                R.drawable.mastercard,
+                "Master Cards..!!",
+                "Facebook (stylized as facebook) is an American online social media and social networking service based in Menlo Park, California, and a flagship service of the ..",
+                400000000.0,
+                "4.5"
+            ),
+            Product(
+                R.drawable.you,
+                "You Tube Social Media..!!",
+                "Facebook (stylized as facebook) is an American online social media and social networking service based in Menlo Park, California, and a flagship service of the ..",
+                400000000.0,
+                "4.5"
+            ),
+            Product(
+                R.drawable.logo,
+                "Logo Social Media..!!",
+                "Facebook (stylized as facebook) is an American online social media and social networking service based in Menlo Park, California, and a flagship service of the ..",
+                400000000.0,
+                "4.5"
+            ),
+            Product(
                 R.drawable.facebook,
                 "Facebook Social Media..!!",
                 "Facebook (stylized as facebook) is an American online social media and social networking service based in Menlo Park, California, and a flagship service of the ..",
